@@ -1,1 +1,8 @@
 # Bhagya_Repository
+                         Machine learning is an emerging technique for building analytic models for machines to "learn" from data and be able to do predictive analysis. The ability of machines to "learn" and do predictive analysis is very important in this era of big data and it has a wide range of application areas. For instance, banks and financial institutions are sometimes faced with the challenge of what risk factors to consider when advancing credit/loans to customers. For several features/attributes of the customers are normally taken into consideration, but most of these features have little predictive effect on the credit worthiness or otherwise of the customer. 
+                     Furthermore, a robust and effective automated bank credit risk score that can aid in the prediction of customer credit worthiness very accurately is still a major challenge facing many banks. In this analysis project, we examine a real bank credit data and conduct several machine learning algorithms on the data for comparative analysis and to choose which algorithms are the best fits for learning bank credit data. The algorithms gave over 70% accuracy in prediction. The results show no significant difference, signifying that used features can accurately determine the credit worthiness of the customers. Finally, we formulate a predictive model using the most important features to predict the worthiness of a given customer.
+We have bank loan data as example & need to achieve below objectives using Machine learning algorithms
+    1)To predict defaulter for bank.
+    2)To help bank to decide to whom they can grant loan.
+    3)To predict target population i.e. Customers for loan.
+
